@@ -7,7 +7,6 @@
 - 🚀Project-APARTMENT MANAGEMENT SYSTEM: [Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
 
 
-## GitHub Stats
 ![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya003&show_icons=true&theme=radical)
 
 
