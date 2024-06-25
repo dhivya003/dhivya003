@@ -10,8 +10,8 @@
 ## GitHub Stats
 ![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya003&show_icons=true&theme=radical)
 
-## Favorite Quote
-"The only way to do great work is to love what you do." 
+
+## "The only way to do great work is to love what you do." 
 
 Feel free to reach out! 😊
 
