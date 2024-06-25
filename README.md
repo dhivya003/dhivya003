@@ -14,7 +14,7 @@
 - ## Projects
 
 ### Easy Apart! APART MANAGEMENT SYSTEM
-- [GitHub Repository](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
+[Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
 
 
 ## Find Me Around the Web 🌍
