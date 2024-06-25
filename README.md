@@ -11,16 +11,10 @@
 - 🌐 Familiar: PHP, PostgreSQL
 - 🛠️ Version Control: Git
 
-- ## Projects
+## Projects
 
 ### Easy Apart! APART MANAGEMENT SYSTEM
 [Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
-
-
-## Find Me Around the Web 🌍
-- 📧 [Email](mailto:dhivyasiva825@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhivyas03/)
-
 
 ## GitHub Stats
 ![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya003&show_icons=true&theme=radical)
