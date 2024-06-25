@@ -6,7 +6,6 @@
 - 🌐Proficient in HTML, CSS, JavaScript, PHP, PostgreSQL; 🛠️ Git
 - 🚀Project-APARTMENT MANAGEMENT SYSTEM: [Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
 
-💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,9 +17,6 @@
 
 
 ![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya003&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivya003&layout=pie)]
-
 
 ## "The only way to do great work is to love what you do." 
 
