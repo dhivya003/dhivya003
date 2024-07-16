@@ -1,6 +1,6 @@
 # Hi there, I'm DHIVYA! 👋
 
-- 🎓 I'm a Second-year CSE Undergrad at College Of Engineering Guindy.
+- 🎓 I'm a Third-year CSE Undergrad at College Of Engineering Guindy.
 - 💼 Aspiring Full Stack Developer.
 - 💻 Passionate about Web Development and creating meaningful projects.
 - 🌐Proficient in HTML, CSS, JavaScript, PHP, PostgreSQL; 🛠️ Git
