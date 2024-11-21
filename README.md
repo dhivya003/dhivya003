@@ -4,7 +4,8 @@
 - 💼 Aspiring Full Stack Developer.
 - 💻 Passionate about Web Development and creating meaningful projects.
 - 🌐Proficient in HTML, CSS, JavaScript, PHP, PostgreSQL; 🛠️ Git
-- 🚀Project-APARTMENT MANAGEMENT SYSTEM: [Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
+- 🚀Projects
+- APARTMENT MANAGEMENT SYSTEM: [Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
 - MEDICINAL PLANT LEAF CLASSIFICATION ML PROJECT
 - SMART HOME AUTOMATION WEBSITE
 
