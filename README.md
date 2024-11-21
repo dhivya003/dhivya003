@@ -5,6 +5,8 @@
 - 💻 Passionate about Web Development and creating meaningful projects.
 - 🌐Proficient in HTML, CSS, JavaScript, PHP, PostgreSQL; 🛠️ Git
 - 🚀Project-APARTMENT MANAGEMENT SYSTEM: [Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
+- MEDICINAL PLANT LEAF CLASSIFICATION ML PROJECT
+- SMART HOME AUTOMATION WEBSITE
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
