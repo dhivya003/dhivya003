@@ -6,7 +6,7 @@
 - 🌐Proficient in HTML, CSS, JavaScript, PHP, PostgreSQL; 🛠️ Git
 - 🚀Projects
 - APARTMENT MANAGEMENT SYSTEM: [Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
-- MEDICINAL PLANT LEAF CLASSIFICATION ML PROJECT
+- MEDICINAL PLANT LEAF CLASSIFICATION ML PROJECT: [Link](https://github.com/dhivya003/ML_project_Medicinal_Plant_Leaf_Classification.git)
 - SMART HOME AUTOMATION WEBSITE
 
 
