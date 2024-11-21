@@ -3,11 +3,12 @@
 - 🎓 I'm a Third-year CSE Undergrad at College Of Engineering Guindy.
 - 💼 Aspiring Full Stack Developer.
 - 💻 Passionate about Web Development and creating meaningful projects.
-- 🌐Proficient in HTML, CSS, JavaScript, PHP, PostgreSQL; 🛠️ Git
+- 💻 C | 💻 C++ | 🐍 Python | ⚡ JavaScript | 🌐 HTML | 🎨 CSS | ☕ Java | 🛢️ SQL | 🐘 PHP 
+  
 - 🚀Projects
 - APARTMENT MANAGEMENT SYSTEM: [Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
 - MEDICINAL PLANT LEAF CLASSIFICATION ML PROJECT: [Link](https://github.com/dhivya003/ML_project_Medicinal_Plant_Leaf_Classification.git)
-- SMART HOME AUTOMATION WEBSITE
+- SMART HOME AUTOMATION WEBSITE: [Link](https://github.com/dhivya003/Smart_Home_Automation.git)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
