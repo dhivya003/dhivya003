@@ -8,6 +8,7 @@
 - 🚀Projects
 - APARTMENT MANAGEMENT SYSTEM: [Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
 - MEDICINAL PLANT LEAF CLASSIFICATION ML PROJECT: [Link](https://github.com/dhivya003/ML_project_Medicinal_Plant_Leaf_Classification.git)
+- ADAPTIVE ASSESSMENT SYSTEM ML PROJECT:[Link](https://github.com/dhivya003/Adaptive-Assessment-System.git).
 - SMART HOME AUTOMATION WEBSITE: [Link](https://github.com/dhivya003/Smart_Home_Automation.git)
 
 
