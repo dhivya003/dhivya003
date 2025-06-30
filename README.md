@@ -1,6 +1,6 @@
 # Hi there, I'm DHIVYA! 👋
 
-- 🎓 I'm a Third-year CSE Undergrad at College Of Engineering Guindy.
+- 🎓 I'm a Final-year CSE Undergrad at College Of Engineering Guindy.
 - 💼 Aspiring Full Stack Developer.
 - 💻 Passionate about Web Development and creating meaningful projects.
 - 💻 C | 💻 C++ | 🐍 Python | ⚡ JavaScript | 🌐 HTML | 🎨 CSS | ☕ Java | 🛢️ SQL | 🐘 PHP 
