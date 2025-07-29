@@ -6,6 +6,7 @@
 - 💻 C | 💻 C++ | 🐍 Python | ⚡ JavaScript | 🌐 HTML | 🎨 CSS | ☕ Java | 🛢️ SQL | 🐘 PHP 
   
 - 🚀Projects
+- SIGNSYNC – Real-Time Sign Language Recognition:[![Live](https://img.shields.io/badge/Live-SignSync-brightgreen)](https://signsync.onrender.com)
 - APARTMENT MANAGEMENT SYSTEM: [Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
 - MEDICINAL PLANT LEAF CLASSIFICATION ML PROJECT: [Link](https://github.com/dhivya003/ML_project_Medicinal_Plant_Leaf_Classification.git)
 - ADAPTIVE ASSESSMENT SYSTEM ML PROJECT:[Link](https://github.com/dhivya003/Adaptive-Assessment-System.git).
