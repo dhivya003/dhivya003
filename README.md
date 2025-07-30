@@ -46,17 +46,17 @@ I enjoy blending creativity and technology to deliver value through continuous l
 
 ---
 
-### ⚡ Fun Fact  
-I love creating aesthetically pleasing UI designs and enjoy creativity-driven events like meme design and poster creation.
-
----
-
 ## 🚀  Skills  
 **Languages:** Java, Python, C++, SQL, C  
 **Web Technologies:** HTML, CSS, JavaScript, PHP  
 **Frameworks & Tools:** FlutterFlow, Git, GitHub, PostgreSQL, Django (basic)  
 **Core CS:** Data Structures & Algorithms, OOP, DBMS, Computer Networks  
 **Soft Skills:** Problem-solving, Team Leadership, Adaptability, Communication, Time Management  
+
+---
+
+### ⚡ Fun Fact  
+I love creating aesthetically pleasing UI designs and enjoy creativity-driven events like meme design and poster creation.
 
 ---
 ## "The only way to do great work is to love what you do." 
