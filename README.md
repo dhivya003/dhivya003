@@ -1,13 +1,13 @@
 # Hi there, I'm Dhivya S 👋
 
-**Computer Science Undergraduate | Aspiring Full Stack Developer | Machine Learning Enthusiast**
+**🎓Computer Science Undergraduate |💼 Aspiring Full Stack Developer |💻 Machine Learning Enthusiast**
 
-I’m a passionate and curious tech enthusiast, focused on building impactful web and app solutions to solve real-world problems.  
+I’m a passionate and curious tech enthusiast ⚡, focused on building impactful web and app solutions to solve real-world problems.  
 I enjoy blending creativity and technology to deliver value through continuous learning and innovation.  
 
 ---
 
-## 🚀 Tech Stack & Skills  
+## 🚀  Skills  
 **Languages:** Java, Python, C++, SQL, C  
 **Web Technologies:** HTML, CSS, JavaScript, PHP  
 **Frameworks & Tools:** FlutterFlow, Git, GitHub, PostgreSQL, Django (basic)  
@@ -31,11 +31,11 @@ I enjoy blending creativity and technology to deliver value through continuous l
 
 ---
 
-## 🏆 Achievements & Certifications  
+## 🏆 Achievements 
 - **Winner – Socially Implementable Project**, Pad Vending Machine, Technovation, Kurukshetra Fest  
 - **Top 25 Finalist**, K! Hacks 2.0 Hackathon (700+ teams)  
 - **Certificate of Excellence**, Rockfort Times Newspaper (District Topper in 12th Grade)  
-- **Certifications:** Computer Networking (Simplilearn), SQL Intermediate (HackerRank), Git (Simplilearn), Full Stack Development Workshop (BTree Systems)
+
 
 ---
 
