@@ -54,3 +54,10 @@ I love creating aesthetically pleasing UI designs and enjoy creativity-driven ev
 
 ![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya003&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivya003&layout=compact&theme=tokyonight)
+
+---
+## "The only way to do great work is to love what you do." 
+
+Feel free to reach out! 😊
+
+
