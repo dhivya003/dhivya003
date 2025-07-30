@@ -7,12 +7,8 @@ I enjoy blending creativity and technology to deliver value through continuous l
 
 ---
 
-## 🚀  Skills  
-**Languages:** Java, Python, C++, SQL, C  
-**Web Technologies:** HTML, CSS, JavaScript, PHP  
-**Frameworks & Tools:** FlutterFlow, Git, GitHub, PostgreSQL, Django (basic)  
-**Core CS:** Data Structures & Algorithms, OOP, DBMS, Computer Networks  
-**Soft Skills:** Problem-solving, Team Leadership, Adaptability, Communication, Time Management  
+![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya003&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivya003&layout=compact&theme=tokyonight)
 
 ---
 
@@ -20,6 +16,9 @@ I enjoy blending creativity and technology to deliver value through continuous l
 - **[SignSync – ISL Communication Platform](https://github.com/dhivya003/SignSync.git)**  
   Real-time web platform converting Indian Sign Language gestures to speech/text and vice versa (99.89% accuracy).  
   *Tech Stack: Python, TensorFlow, OpenCV, Flask*
+  
+  [![Live](https://img.shields.io/badge/Live-SignSync-brightgreen)](https://signsync.onrender.com)
+
 
 - **[MediLeaf AI – Medicinal Plant Recognizer](https://github.com/dhivya003/ML_project_Medicinal_Plant_Leaf_Classification.git)**  
   Medicinal plant classifier using leaf images, HOG feature extraction, and ML models.  
@@ -52,8 +51,12 @@ I love creating aesthetically pleasing UI designs and enjoy creativity-driven ev
 
 ---
 
-![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya003&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivya003&layout=compact&theme=tokyonight)
+## 🚀  Skills  
+**Languages:** Java, Python, C++, SQL, C  
+**Web Technologies:** HTML, CSS, JavaScript, PHP  
+**Frameworks & Tools:** FlutterFlow, Git, GitHub, PostgreSQL, Django (basic)  
+**Core CS:** Data Structures & Algorithms, OOP, DBMS, Computer Networks  
+**Soft Skills:** Problem-solving, Team Leadership, Adaptability, Communication, Time Management  
 
 ---
 ## "The only way to do great work is to love what you do." 
