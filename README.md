@@ -1,38 +1,56 @@
-# Hi there, I'm DHIVYA! 👋
+# Hi there, I'm Dhivya S 👋
 
-- 🎓 I'm a Final-year CSE Undergrad at College Of Engineering Guindy.
-- 💼 Aspiring Full Stack Developer.
-- 💻 Passionate about Web Development and creating meaningful projects.
-- 💻 C | 💻 C++ | 🐍 Python | ⚡ JavaScript | 🌐 HTML | 🎨 CSS | ☕ Java | 🛢️ SQL | 🐘 PHP 
-  
-- 🚀Projects
-- SIGNSYNC – Real-Time Sign Language Recognition:[![Live](https://img.shields.io/badge/Live-SignSync-brightgreen)](https://signsync.onrender.com)
-- APARTMENT MANAGEMENT SYSTEM: [Link](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)
-- MEDICINAL PLANT LEAF CLASSIFICATION ML PROJECT: [Link](https://github.com/dhivya003/ML_project_Medicinal_Plant_Leaf_Classification.git)
-- ADAPTIVE ASSESSMENT SYSTEM ML PROJECT:[Link](https://github.com/dhivya003/Adaptive-Assessment-System.git).
-- SMART HOME AUTOMATION WEBSITE: [Link](https://github.com/dhivya003/Smart_Home_Automation.git)
+**Computer Science Undergraduate | Aspiring Full Stack Developer | Machine Learning Enthusiast**
 
+I’m a passionate and curious tech enthusiast, focused on building impactful web and app solutions to solve real-world problems.  
+I enjoy blending creativity and technology to deliver value through continuous learning and innovation.  
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)<br>
+---
 
+## 🚀 Tech Stack & Skills  
+**Languages:** Java, Python, C++, SQL, C  
+**Web Technologies:** HTML, CSS, JavaScript, PHP  
+**Frameworks & Tools:** FlutterFlow, Git, GitHub, PostgreSQL, Django (basic)  
+**Core CS:** Data Structures & Algorithms, OOP, DBMS, Computer Networks  
+**Soft Skills:** Problem-solving, Team Leadership, Adaptability, Communication, Time Management  
 
-![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya003&show_icons=true&theme=radical)
+---
 
-## "The only way to do great work is to love what you do." 
+## 🌟 Featured Projects  
+- **[SignSync – ISL Communication Platform](https://github.com/dhivya003/SignSync.git)**  
+  Real-time web platform converting Indian Sign Language gestures to speech/text and vice versa (99.89% accuracy).  
+  *Tech Stack: Python, TensorFlow, OpenCV, Flask*
 
-Feel free to reach out! 😊
+- **[MediLeaf AI – Medicinal Plant Recognizer](https://github.com/dhivya003/ML_project_Medicinal_Plant_Leaf_Classification.git)**  
+  Medicinal plant classifier using leaf images, HOG feature extraction, and ML models.  
+  *Tech Stack: Python (TensorFlow, Scikit-learn, OpenCV)*
 
+- **[Easy Apart – Apartment Management System](https://github.com/dhivya003/APARTMENT_MANAGEMENT_SYSTEM.git)**  
+  Web-based platform for online bill payments, complaint management, and task allocation.  
+  *Tech Stack: HTML, CSS, JavaScript, PHP, PostgreSQL*
 
+---
 
+## 🏆 Achievements & Certifications  
+- **Winner – Socially Implementable Project**, Pad Vending Machine, Technovation, Kurukshetra Fest  
+- **Top 25 Finalist**, K! Hacks 2.0 Hackathon (700+ teams)  
+- **Certificate of Excellence**, Rockfort Times Newspaper (District Topper in 12th Grade)  
+- **Certifications:** Computer Networking (Simplilearn), SQL Intermediate (HackerRank), Git (Simplilearn), Full Stack Development Workshop (BTree Systems)
 
+---
 
+## 📫 Connect with Me  
+- **LinkedIn:** [linkedin.com/in/dhivyas03](https://www.linkedin.com/in/dhivyas03/)  
+- **GitHub:** [github.com/dhivya003](https://github.com/dhivya003)  
+- **LeetCode:** [leetcode.com/u/dhivya_s_03/](https://leetcode.com/u/dhivya_s_03/)  
+- **Email:** [dhivyasiva825@gmail.com](mailto:dhivyasiva825@gmail.com)
 
+---
 
+### ⚡ Fun Fact  
+I love creating aesthetically pleasing UI designs and enjoy creativity-driven events like meme design and poster creation.
 
+---
+
+![Dhivya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivya003&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivya003&layout=compact&theme=tokyonight)
